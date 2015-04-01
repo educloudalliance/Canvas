@@ -14,5 +14,5 @@ Organisaatiotasolla näytetään kooste organisaation repositoryistä ja ryhmist
 ## Yksittäisestä projektista tuotettava näkymä
 Projektin oletetaan tässä tapauksessa koostuvan yhdestä repositorystä, jonka sisällä tapahtuvaan kehitykseen ja muuhun toimintaan voi osallistua yksittäiset ihmiset (github tilin kautta) tai ryhmät (github ryhmät)
 
-Materiaalia: 
-![Trends](https://camo.githubusercontent.com/2156e3fdc87e4bdb7b74a05f0635e0e36b001dcb/687474703a2f2f662e636c2e6c792f6974656d732f30633368336c3245314a317a316d3175336c31412f6769746875625f7472656e64732e706e76g)
+## Materiaalia ja valmista koodia: 
+* https://github.com/dzello/github-trends
