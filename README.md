@@ -19,3 +19,4 @@ Projektin oletetaan tässä tapauksessa koostuvan yhdestä repositorystä, jonka
 * http://sourabhbajaj.com/GithubVisualizer/
 * Jotain tuollaista https://datahero.com/connections/github/
 * http://gitgraphjs.com/
+* https://github.com/blog/1093-introducing-the-new-github-graphs
