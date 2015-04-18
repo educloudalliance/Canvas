@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Owners",
+    "id": 728075,
+    "slug": "owners",
+    "description": null,
+    "permission": "admin",
+    "url": "https://api.github.com/teams/728075",
+    "members_url": "https://api.github.com/teams/728075/members{/member}",
+    "repositories_url": "https://api.github.com/teams/728075/repos"
+  },
+  {
+    "name": "Bazaar",
+    "id": 819901,
+    "slug": "bazaar",
+    "description": "Bazaar development team",
+    "permission": "push",
+    "url": "https://api.github.com/teams/819901",
+    "members_url": "https://api.github.com/teams/819901/members{/member}",
+    "repositories_url": "https://api.github.com/teams/819901/repos"
+  },
+  {
+    "name": "Consortium",
+    "id": 754978,
+    "slug": "consortium",
+    "description": "Consortium building team",
+    "permission": "push",
+    "url": "https://api.github.com/teams/754978",
+    "members_url": "https://api.github.com/teams/754978/members{/member}",
+    "repositories_url": "https://api.github.com/teams/754978/repos"
+  },
+  {
+    "name": "Demola",
+    "id": 728164,
+    "slug": "demola",
+    "description": "Demola teams",
+    "permission": "push",
+    "url": "https://api.github.com/teams/728164",
+    "members_url": "https://api.github.com/teams/728164/members{/member}",
+    "repositories_url": "https://api.github.com/teams/728164/repos"
+  },
+  {
+    "name": "get-inspired",
+    "id": 1307311,
+    "slug": "get-inspired",
+    "description": "",
+    "permission": "push",
+    "url": "https://api.github.com/teams/1307311",
+    "members_url": "https://api.github.com/teams/1307311/members{/member}",
+    "repositories_url": "https://api.github.com/teams/1307311/repos"
+  },
+  {
+    "name": "KnowHow",
+    "id": 1058531,
+    "slug": "knowhow",
+    "description": "KnowHow (Kysy) service team",
+    "permission": "push",
+    "url": "https://api.github.com/teams/1058531",
+    "members_url": "https://api.github.com/teams/1058531/members{/member}",
+    "repositories_url": "https://api.github.com/teams/1058531/repos"
+  },
+  {
+    "name": "Portal",
+    "id": 1040674,
+    "slug": "portal",
+    "description": "EduCloud portal team",
+    "permission": "push",
+    "url": "https://api.github.com/teams/1040674",
+    "members_url": "https://api.github.com/teams/1040674/members{/member}",
+    "repositories_url": "https://api.github.com/teams/1040674/repos"
+  },
+  {
+    "name": "rest core team",
+    "id": 860530,
+    "slug": "rest-core-team",
+    "description": "xroad development",
+    "permission": "admin",
+    "url": "https://api.github.com/teams/860530",
+    "members_url": "https://api.github.com/teams/860530/members{/member}",
+    "repositories_url": "https://api.github.com/teams/860530/repos"
+  },
+  {
+    "name": "RoleDB team",
+    "id": 1075190,
+    "slug": "roledb-team",
+    "description": "Role DB team for pilot",
+    "permission": "push",
+    "url": "https://api.github.com/teams/1075190",
+    "members_url": "https://api.github.com/teams/1075190/members{/member}",
+    "repositories_url": "https://api.github.com/teams/1075190/repos"
+  },
+  {
+    "name": "SSO-team",
+    "id": 1105041,
+    "slug": "sso-team",
+    "description": "EduCloud SSO developers",
+    "permission": "push",
+    "url": "https://api.github.com/teams/1105041",
+    "members_url": "https://api.github.com/teams/1105041/members{/member}",
+    "repositories_url": "https://api.github.com/teams/1105041/repos"
+  }
+]
