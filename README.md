@@ -10,6 +10,8 @@ Organisaatiotasolla näytetään kooste organisaation repositoryistä ja ryhmist
 * Lista projekteista + 
 * Kuvaajana kontribuutioiden määrä (6 kk) kuvaaja
 * Kuvaajana kontribuutioiden määrä (1 kk) kuvaaja
+* Issue yhteenveto ja trendi
+* lista käytetyistä lisensseistä ja niiden määristä. 
 
 ## Yksittäisestä projektista tuotettava näkymä
 Projektin oletetaan tässä tapauksessa koostuvan yhdestä repositorystä, jonka sisällä tapahtuvaan kehitykseen ja muuhun toimintaan voi osallistua yksittäiset ihmiset (github tilin kautta) tai ryhmät (github ryhmät)
