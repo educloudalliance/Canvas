@@ -22,3 +22,5 @@ Projektin oletetaan tässä tapauksessa koostuvan yhdestä repositorystä, jonka
 * Jotain tuollaista https://datahero.com/connections/github/
 * http://gitgraphjs.com/
 * https://github.com/blog/1093-introducing-the-new-github-graphs
+
+![alt text](https://raw.githubusercontent.com/educloudalliance/Canvas/master/images/mod1.png "Laughing version")
